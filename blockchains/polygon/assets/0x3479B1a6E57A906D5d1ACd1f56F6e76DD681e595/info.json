@@ -1,0 +1,11 @@
+{
+  "name": "Limon",
+  "symbol": "LIM",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Описание вашего проекта (на английском)",
+  "website": "https://ваш-сайт.com",
+  "explorer": "https://polygonscan.com/token/0x3479B1a6E57A906D5d1ACd1f56F6e76DD681e595",
+  "status": "active",
+  "id": "0x3479B1a6E57A906D5d1ACd1f56F6e76DD681e595"
+}
